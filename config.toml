@@ -1,4 +1,24 @@
+baseURL = "https://mhkazma.github.io/"
+languageCode = "en-us"
+title = "Mohamad Kazma"
+theme = "barks"
+
 [module]
   [module.hugoVersion]
     extended = true
     min = "0.87.0"
+
+[author]
+  name = "Mohamad Kazma"
+
+[params]
+  description = "PhD Student in Civil & Environmental Engineering at Vanderbilt University, focusing on water networks, nonlinear dynamics, and sensor placement."
+
+  [params.head]
+    author = "Mohamad Kazma"
+    keywords = ["Water networks", "Sensor placement", "Observability", "Nonlinear systems", "Civil engineering"]
+
+  [params.social]
+    github = "mhkazma"
+    orcid = "0000-0002-8217-1633"
+    googleScholar = "https://scholar.google.com/citations?user=l2LDgLAAAAAJ&hl=en"
