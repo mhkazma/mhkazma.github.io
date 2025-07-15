@@ -22,3 +22,19 @@ theme = "barks"
     github = "mhkazma"
     orcid = "0000-0002-8217-1633"
     googleScholar = "https://scholar.google.com/citations?user=l2LDgLAAAAAJ&hl=en"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
