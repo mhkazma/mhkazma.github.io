@@ -1,0 +1,19 @@
+baseURL = "https://mhkazma.github.io/"
+languageCode = "en-us"
+title = "Mohamad Kazma"
+theme = "barks"
+
+[author]
+  name = "Mohamad Kazma"
+
+[params]
+  description = "PhD Student in Civil & Environmental Engineering, Vanderbilt University"
+
+  [params.head]
+    author = "Mohamad Kazma"
+    keywords = ["civil engineering", "environmental engineering", "Vanderbilt University"]
+
+  [params.social]
+    github = "mhkazma"
+    orcid = "0000-0002-8217-1633"
+    googleScholar = "https://scholar.google.com/citations?user=l2LDgLAAAAAJ&hl=en"
