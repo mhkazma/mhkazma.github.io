@@ -24,7 +24,6 @@ theme = "barks"
     googleScholar = "https://scholar.google.com/citations?user=l2LDgLAAAAAJ&hl=en"
 
 [menu]
-
   [[menu.main]]
     name = "Home"
     url = "/"
@@ -36,21 +35,6 @@ theme = "barks"
     weight = 2
 
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 3
-
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.footer]]
-    name = "Publications"
-    url = "/publications/"
-    weight = 2
-
-  [[menu.footer]]
     name = "Blog"
     url = "/posts/"
     weight = 3
