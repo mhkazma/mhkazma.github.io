@@ -25,6 +25,11 @@ theme = "barks"
 
 [menu]
   [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 0
+    
+  [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
