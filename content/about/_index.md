@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+weight: 1
 ---
 
 I’m **Mohamad Kazma**, a PhD student in Civil & Environmental Engineering at Vanderbilt University. My research focuses on modeling, sustainability, and computational methods for infrastructure resilience.
