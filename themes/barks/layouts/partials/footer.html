@@ -1,18 +1,12 @@
-
-{{ if not (eq .Site.Params.footer.show_footer false) }}
 <footer>
-
-    {{ if isset .Site.Params "social" }}
-    {{ with .Site.Params.social }}
-        <ul>
-        {{ range sort . "weight" }}
-            <li><a href="{{ .url }}" title="{{ .name }}"><i class="{{ .class }}"></i></a></li>
+  <p>© {{ now.Year }} {{ .Site.Author.name }}</p>
+  {{ with .Site.Menus.footer }}
+    <nav>
+      <ul>
+        {{ range . }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
-        </ul> 
-    {{ end }}
-    {{ end }}
-
-    {{ .Site.Copyright | safeHTML }}
-
+      </ul>
+    </nav>
+  {{ end }}
 </footer>
-{{ end }}
