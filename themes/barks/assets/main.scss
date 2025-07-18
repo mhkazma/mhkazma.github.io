@@ -61,7 +61,7 @@ main {
 main > :first-child { margin-top: 0 !important; }
 // Widen content layout
 main {
-  max-width: 90% !important;
-  margin-left: auto;
-  margin-right: auto;
+  max-width: 1000px; // increase from the default (likely 700-800px)
+  margin: 0 auto;     // center the content
+  padding: 2rem;      // optional: adjust spacing inside
 }
