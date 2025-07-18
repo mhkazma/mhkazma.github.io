@@ -11,7 +11,7 @@ weight: 2
 
 - **Observability and Generalized Sensor Placement for Nonlinear Quality Models in Drinking Water Networks**  
   *arXiv:2411.04202 (Nov 2024)*  
-  [PDF](https://arxiv.org/pdf/2411.04202) • [arXiv](https://arxiv.org/abs/2411.04202) • [BibTeX](/bib/observer_quality_nd.doc.bib)
+  [PDF](https://arxiv.org/pdf/2411.04202) • [arXiv](https://arxiv.org/abs/2411.04202) • [BibTeX](/bib/observer_quality_nd.bib)
 
 - **Multilinear Extensions in Submodular Optimization for Optimal Sensor Scheduling in Nonlinear Networks**  
   *arXiv:2408.03833 (Aug 2024)*  
@@ -29,13 +29,13 @@ weight: 2
 
 ## 📘 Journal Articles (Peer-Reviewed)
 
-- **Stability and Uncertainty Propagation in Power Networks: A Lyapunov-based Approach…**  
+- **Stability and Uncertainty Propagation in Power Networks: A Lyapunov-based Approach with Applications to Renewable Resource Allocation**  
   *IEEE Transactions on Power Systems* (2025)  
-  [DOI](https://doi.org/10.1109/TPWRS.<NUMBER>) • [BibTeX](/bib/stability_uncertainty.bib)
+  [DOI](https://doi.org/10.1109/TPWRS.2405.05028) • [BibTeX](/bib/stability_uncertainty.bib)
 
 - **Revisiting the Optimal PMU Placement Problem in Multimachine Power Networks**  
   *IEEE Transactions on Control Systems Technology*, 2024  
-  [DOI](https://doi.org/10.1109/TCST.<NUMBER>) • [BibTeX](/bib/pmu_placement.bib)
+  [DOI](https://doi.org/10.1109/TCST.2306.13584) • [BibTeX](/bib/pmu_placement.bib)
 
 ---
 
@@ -53,11 +53,13 @@ weight: 2
   *IEEE Conference on Decision and Control (CDC) 2023*  
   [BibTeX](/bib/state_robust_observability.bib)
 
-- **Optimal Placement of PMUs in Power Networks: Modularity Meets…”**  
+- **Optimal Placement of PMUs in Power Networks: Modularity Meets Uncertainty**  
   *ACC 2023*  
   [BibTeX](/bib/pmu_modularity.bib)
 
 ---
 
-## 📚 Full List  
-For complete and always-up-to-date info, see my [Google Scholar profile](https://scholar.google.com/citations?user=l2LDgLAAAAAJ&hl=en).
+## 📚 Full List
+
+- [Google Scholar](https://scholar.google.com/citations?user=l2LDgLAAAAAJ&hl=en)  
+- [arXiv Author Profile](https://arxiv.org/a/kazma_m_1.html)
