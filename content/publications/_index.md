@@ -31,11 +31,11 @@ weight: 2
 
 - **Stability and Uncertainty Propagation in Power Networks: A Lyapunov-based Approach with Applications to Renewable Resource Allocation**  
   *IEEE Transactions on Power Systems* (2025)  
-  [DOI](https://doi.org/10.1109/TPWRS.2405.05028) • [BibTeX](/bib/stability_uncertainty.bib)
+  [DOI](https://doi.org/10.1109/TPWRS.2025.3539250) • [BibTeX](/bib/stability_uncertainty.bib)
 
 - **Revisiting the Optimal PMU Placement Problem in Multimachine Power Networks**  
   *IEEE Transactions on Control Systems Technology*, 2024  
-  [DOI](https://doi.org/10.1109/TCST.2306.13584) • [BibTeX](/bib/pmu_placement.bib)
+  [DOI](https://doi.org/10.1109/TCST.2024.3487029) • [BibTeX](/bib/pmu_placement.bib)
 
 ---
 
@@ -43,19 +43,19 @@ weight: 2
 
 - **Generalizable Stability Metrics for Power Grids**  
   *American Control Conference (ACC) 2025*  
-  [BibTeX](/bib/stability_metrics_acc25.bib)
+  [DOI](https://doi.org/10.23919/ACC55779.2023.10156230) • [BibTeX](/bib/stability_metrics_acc25.bib)
 
 - **ODE Transformations of Nonlinear DAE Power Systems**  
   *IEEE PES General Meeting (PESGM) 2024*  
-  [BibTeX](/bib/ode_transformations.bib)
+  [DOI](https://doi.org/10.1109/PESGM51994.2024.10688501) • [BibTeX](/bib/ode_transformations.bib)
 
 - **State-Robust Observability Measures for Sensor Selection in Nonlinear Dynamic Systems**  
   *IEEE Conference on Decision and Control (CDC) 2023*  
-  [BibTeX](/bib/state_robust_observability.bib)
+  [DOI](https://doi.org/10.1109/CDC49753.2023.10383254) • [BibTeX](/bib/state_robust_observability.bib)
 
 - **Optimal Placement of PMUs in Power Networks: Modularity Meets Uncertainty**  
-  *ACC 2023*  
-  [BibTeX](/bib/pmu_modularity.bib)
+  *American Control Conference (ACC) 2023*  
+  [DOI](https://doi.org/10.23919/ACC55779.2023.10156230) • [BibTeX](/bib/pmu_modularity.bib)
 
 ---
 
